@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.local
+.env.production
+.env.staging
+
+# Firebase / service accounts
+serviceAccountKey.json
+firebase-adminsdk*.json
+
+# Node / build
+node_modules/
+dist/
+build/
+.flutter-plugins
+.dart_tool/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
