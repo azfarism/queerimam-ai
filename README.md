@@ -1,3 +1,5 @@
+<img width="872" height="669" alt="Screenshot 2026-03-17 at 3 04 41 PM" src="https://github.com/user-attachments/assets/d61e4c68-15d2-4974-8160-5d85638504a3" />
+
 # queerimam.ai — Public Architecture, Trust Design, and Product Method
 
 A public, sanitized showcase of how **queerimam.ai** is designed: not as a generic chatbot, but as a high-context pastoral AI product for LGBTQ+ Muslims and their allies.
